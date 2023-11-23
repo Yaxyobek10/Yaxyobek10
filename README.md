@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
     <img src="./icons/fastapi.svg" alt="fastapi" title="FastAPI" width="40" height="40" />
     <img src="./icons/flask.png" alt="flask" title="Flask" width="40" height="40" />
-    <img src="./icons/javascript.svg" alt="javascript" title="JavaScript" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" title="JavaScript" width="40" height="40" />
     <img src="./icons/html-5.svg" alt="html" title="HTML" width="40" height="40" />
     <img src="./icons/css3.svg" alt="css" title="CSS" width="40" height="40" />
     <img src="./icons/mongodb.svg" alt="mongodb" title="MongoDB" width="40" height="40" />
