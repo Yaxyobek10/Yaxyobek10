@@ -20,4 +20,6 @@
 
 ## Contact
 
-[Telegram](https://t.me/Hasanov_Yaxyobek) • [Instagram](https://instagram.com/yaxyobek_1o) • [LinkedIn](https://www.linkedin.com/in/yaxyobek-hasanov-b3b76a282)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hasanov_Yaxyobek)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yaxyobek_1o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaxyobek-hasanov-b3b76a282)
