@@ -17,3 +17,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-Hasanov__Yaxyobek-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hasanov_Yaxyobek)
+[![Instagram](https://img.shields.io/badge/Instagram-yaxyobek__1o-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yaxyobek_1o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaxyobek-hasanov-b3b76a282)
