@@ -23,4 +23,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hasanov_Yaxyobek)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yaxyobek_1o)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaxyobek-hasanov-b3b76a282)
-[![Email](https://img.shields.io/badge/Email-yaxyobekxasanov8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaxyobekxasanov8@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yaxyobekxasanov8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaxyobekxasanov8@gmail.com)
